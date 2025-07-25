@@ -47,6 +47,6 @@ This study is supported in part by National Natural Science Foundation of China 
 
 ## Contact
 
-GUO Peiyuan: [guopy21@mail.tsinghua.edu.cn](guopy21@mail.tsinghua.edu.cn)
+GUO Peiyuan: [guopy21@mail.tsinghua.edu.cn](guopy21@mails.tsinghua.edu.cn)
 
 WANG Zhentian: [wangzhentian@tsinghua.edu.cn](wangzhentian@tsinghua.edu.cn)
