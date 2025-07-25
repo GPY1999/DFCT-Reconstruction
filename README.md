@@ -16,6 +16,7 @@ IEEE Transactions on Medical Imaging ([TMI](https://ieeexplore.ieee.org/)) <br/>
 The principles of the inversion formula can be found in the [references attached here](articles/).
 
 See the code samples in `demo/` directory for implementation of the reconstruction functions.
+Unfortunately github doesn't support uploading large files, so some of the data used in demos are provided in [releases](https://github.com/GPY1999/DFCT-Reconstruction/releases/tag/data).
 
 The definition of geometry parameters can refer to Fig. 4 of [our paper](#analytical-reconstruction-of-dark-field-ct).
 
